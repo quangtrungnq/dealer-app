@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "creator",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20171106102535",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "dealer2",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pager",
+    "microserviceName": "dealapp",
+    "searchEngine": false
+}

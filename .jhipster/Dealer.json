@@ -1,0 +1,13 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [],
+    "changelogDate": "20171106101821",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "dealer",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "dealapp",
+    "searchEngine": false
+}
